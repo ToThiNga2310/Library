@@ -109,7 +109,7 @@
               <Color blue="ff" green="66" red="66" type="rgb"/>
             </Property>
             <Property name="horizontalAlignment" type="int" value="0"/>
-            <Property name="text" type="java.lang.String" value="Jakir Library"/>
+            <Property name="text" type="java.lang.String" value="Library Management"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JProgressBar" name="jProgressBar1">

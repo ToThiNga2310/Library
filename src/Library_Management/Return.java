@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ZI Zohir
+ * @author tothi
  */
 public class Return extends javax.swing.JFrame {
 

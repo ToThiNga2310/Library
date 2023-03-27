@@ -83,7 +83,7 @@
                               <Component id="txtstock" max="32767" attributes="0"/>
                               <Component id="txtbid" min="-2" pref="170" max="-2" attributes="0"/>
                               <Component id="txtname" alignment="0" max="32767" attributes="0"/>
-                              <Component id="cmbedition" alignment="0" pref="180" max="32767" attributes="0"/>
+                              <Component id="cmbedition" alignment="0" max="32767" attributes="0"/>
                           </Group>
                       </Group>
                       <Group type="102" alignment="0" attributes="0">

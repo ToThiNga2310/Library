@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author angel jude suarez
+ * @author tothi
  */
 public class Login extends javax.swing.JFrame {
     Connection con = null;

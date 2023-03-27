@@ -10,7 +10,7 @@ import java.awt.Toolkit;
 
 /**
  *
- * @author ZI Zohir
+ * @author tothi
  */
 public class Home extends javax.swing.JFrame {
 

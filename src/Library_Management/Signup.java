@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ZI Zohir
+ * @author tothi
  */
 public class Signup extends javax.swing.JFrame {
     Connection con = null;

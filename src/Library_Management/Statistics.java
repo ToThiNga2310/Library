@@ -16,7 +16,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author ZI Zohir
+ * @author tothi
  */
 public class Statistics extends javax.swing.JFrame {
 

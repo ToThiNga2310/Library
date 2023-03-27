@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ZI Zohir
+ * @author tothi
  */
 public class Issue extends javax.swing.JFrame {
 

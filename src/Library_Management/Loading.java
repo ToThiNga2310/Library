@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ZI Zohir
+ * @author tothi
  */
 public class Loading extends javax.swing.JFrame implements Runnable {
 
@@ -75,7 +75,7 @@ public class Loading extends javax.swing.JFrame implements Runnable {
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(102, 102, 255));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("Jakir Library");
+        jLabel1.setText("Library Management");
 
         jProgressBar1.setForeground(new java.awt.Color(102, 255, 102));
         jProgressBar1.setStringPainted(true);
